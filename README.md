@@ -50,10 +50,10 @@ Created **ProfileX**, an API platform that integrates multiple third-party APIs 
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 🌐 [React Portfolio Site](https://github.com/asrazareen/react-portfolio) | My personal portfolio built with React and Tailwind CSS | React, Tailwind, GitHub Pages |
-| 🧾 [ToDo Manager App](https://github.com/asrazareen/todo-manager) | CRUD-based task manager with state management and REST API integration | React, Node.js, Express |
-| 🧠 [Weather Dashboard](https://github.com/asrazareen/weather-app) | A real-time weather dashboard using open APIs and React hooks | React, REST APIs, Material UI |
-| 🧩 [Blog Platform Prototype](https://github.com/asrazareen/blog-platform) | Simple blog app demonstrating full-stack CRUD with authentication | Next.js, Node.js, MongoDB |
+| 🌐 [React Portfolio Site] | My personal portfolio built with React and Tailwind CSS | React, Tailwind, GitHub Pages |
+| 🧾 [ToDo Manager App] | CRUD-based task manager with state management and REST API integration | React, Node.js, Express |
+| 🧠 [Weather Dashboard] | A real-time weather dashboard using open APIs and React hooks | React, REST APIs, Material UI |
+| 🧩 [Blog Platform Prototype]| Simple blog app demonstrating full-stack CRUD with authentication | Next.js, Node.js, MongoDB |
 
 ---
 
